@@ -1,3 +1,5 @@
-This is a submodule of pyrkm.
+# Energy consumption of Boltmann/Kirchhff Machines
+ 
+This is a submodule of `pyrkm`. Please refer to the [main repository](https://github.com/Kirchhoff-Machines/pyrkm) and its [documentation](https://kirchhoff-machines.github.io/pyrkm/) for more information.
 
-Here we measure the energy consumption of matrix multiplication to semi-quantify the advantage of using a Restricted Kirchhoff Machine.
+In particular there is a [dedicated page](https://kirchhoff-machines.github.io/pyrkm/energy_consumption/) for this submodule.
