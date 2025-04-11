@@ -98,7 +98,7 @@ def measure_energy_power(vector_sizes, vector_repeats, num_runs=10, warmup_runs=
     return results
 
 # Define vector sizes to test
-vector_sizes = np.logspace(1, 4.3, num=20, base=10).astype(int).tolist()
+vector_sizes = np.logspace(0, 4.3, num=40, base=10).astype(int).tolist()
 def get_repeat_value(x):
     if x < 1000:
         return 10000
